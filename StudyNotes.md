@@ -7,6 +7,12 @@ React Hooks Simplified https://courses.webdevsimplified.com/react-hooks-simplifi
 
 - npm (node package manager)
 - npm is the default package manager for the JavaScript runtime environment Node.js
+- create all boilerplate for a React application & start up the application:
+  ```
+  npx create-react-app my-app
+  cd my-app
+  npm start
+  ```
 - What is a Hook? A Hook is a special **function** that lets you “hook into” React features. For example, useState is a Hook that lets you add React state to function components.
 - When would I use a Hook? If you write a function component and realize you need to add some state to it, previously you had to convert it to a class. Now you can use a Hook inside the existing function component.
 - we can only use hooks inside functiton components (cannot use them in class components)

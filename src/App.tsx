@@ -8,7 +8,7 @@ function App() {
   console.log(wordToGuess);
 
   const [guessedLetters, setGuessedLetters] = useState<string[]>([]);
-
+  3;
   return (
     <div
       style={{
