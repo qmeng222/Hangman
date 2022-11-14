@@ -6,7 +6,7 @@
 
 - name: Hangman
 - intro: a beginner React project that is easy enough logic-wise, but still includes many complicated problems to solve
-- purpose: demonstrate ability to build a micro-project using React and TypeScript
+- purpose: demonstrate game development ability using React and TypeScript
 - time frame: 11/6/2022 -
 - github url: https://github.com/qmeng222/Hangman.git
 
